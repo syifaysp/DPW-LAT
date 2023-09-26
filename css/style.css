@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+hr{
+    width: 100%;
+    color: red;
+}
+
+body{
+    text-align: center;
+    font-size: 15pt;
+    background-color: pink;
+}
